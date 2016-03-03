@@ -1,0 +1,6 @@
+C:\Users\igreg\Documents\PSoC4BLE_projects\Day001_Find_Me\PSoC 4 BLE - Find Me\PSoC 4 BLE - Find Me.cydsn\PSoC 4 BLE - Find Me.cyprj|deb5ccb4-d401-40d4-b4e0-24d16c67378a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|de8a3a25-4369-49a3-a953-ec460de599d0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0c3c101a-b1af-4435-a00f-0deb66f09c97
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|196e797b-2ec2-41e9-8bc6-415a12f02230
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1cd512fe-b968-4de3-8530-cfc181b3b814
+C:\Users\igreg\Documents\PSoC4BLE_projects\Day001_Find_Me\PSoC 4 BLE - Find Me\PSoC 4 BLE - Find Me_PRoC.cydsn\PSoC 4 BLE - Find Me_PRoC.cyprj|81613892-51a9-4bd9-8f1c-ba261fc3267a
