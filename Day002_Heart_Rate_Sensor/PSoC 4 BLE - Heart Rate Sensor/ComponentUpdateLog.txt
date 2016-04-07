@@ -1,0 +1,13 @@
+Last Modified Date & Time: 04/07/2016 22:41:32
+
+PSoC 4 BLE_Heart_Rate_Sensor: TopDesign.cysch
+	CYBLE [v3.0] to [v3.0]
+	UART_DEB [v3.10] to [v3.10]
+	SW2 [v2.20] to [v2.20]
+	Advertising_LED [v2.20] to [v2.20]
+	Disconnect_LED [v2.20] to [v2.20]
+
+PSoC 4 BLE_Heart_Rate_Sensor: PSoC 4 BLE_Heart_Rate_Sensor.cydwr
+	cy_boot [v4.20] to [v5.30]
+
+

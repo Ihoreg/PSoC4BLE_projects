@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0d7023f1-599e-40cd-b3f5-f1cc21f7a7de
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|203a66e3-12a1-439f-8080-137c57e716d1
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|c211db7d-f9b1-4f5e-93e2-ceeb1037b202
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c1da9f6e-e45a-4458-95a2-216143f926b9
+C:\Users\igreg\Documents\PSoC4BLE_projects\Day002_Heart_Rate_Sensor\PSoC 4 BLE - Heart Rate Sensor\PSoC 4 BLE_Heart_Rate_Sensor.cydsn\PSoC 4 BLE_Heart_Rate_Sensor.cyprj|95f67d43-707b-48df-a3a6-e5dba3cafa3e
